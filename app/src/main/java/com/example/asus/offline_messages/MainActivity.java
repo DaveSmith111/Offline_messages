@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     public String mSendere;
     public String mReceivere;
 
+    //Main
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
